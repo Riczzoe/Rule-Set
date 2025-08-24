@@ -1,0 +1,46 @@
+payload:
+  # Spotify
+  - DOMAIN-KEYWORD,spotify
+  - PROCESS-NAME,com.spotify.music
+
+  # YouTube
+  - DOMAIN-KEYWORD,youtube
+
+  # Apple Music
+  - PROCESS-NAME,Music
+
+  # Apple TV
+  - PROCESS-NAME,TV
+
+  # HBO
+  - PROCESS-NAME,com.hbo.hbonow
+
+  # Disney+
+  - PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
+  - PROCESS-NAME,com.disney.disneyplus
+
+  # Netflix
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+  - DOMAIN-KEYWORD,dualstack.apiproxy-
+  - DOMAIN-KEYWORD,dualstack.ichnaea-web-
+  - DOMAIN-KEYWORD,netflixdnstest
+  - PROCESS-NAME,com.netflix.mediaclient - PROCESS-NAME,com.netflix.mediaclient
+
+  # Prime Video
+  - DOMAIN-KEYWORD,avoddashs
+
+  # Discovery+
+  - DOMAIN-KEYWORD,discovery.uplynk.com
+
+  # Hulu
+  - PROCESS-NAME,com.hulu.plus
+
+  # Steam 
+  - DOMAIN-KEYWORD,steambroadcast
+  - DOMAIN-KEYWORD,steamstore
+  - DOMAIN-KEYWORD,steamuserimages
+
+  # TikTok
+  - DOMAIN-KEYWORD,musical.ly
+  - DOMAIN-KEYWORD,tiktok
+  - PROCESS-NAME,com.zhiliaoapp.musically

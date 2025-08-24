@@ -1,0 +1,38 @@
+payload:
+  # Google Play Store
+  - play-lh.googleusercontent.com
+  - play-fe.googleapis.com
+  - play.googleapis.com
+  - playstoregatewayadapter-pa.googleapis.com
+  - digitalassetlinks.googleapis.com
+  - android.clients.google.com
+  - services.googleapis.cn
+  - '+.xn--ngstr-lra8j.com'
+
+  # Github Raw
+  - raw.githubusercontent.com
+  - '+.githubusercontent.com'
+  - copilot-proxy.githubusercontent.com
+  - copilot-telemetry.githubusercontent.com
+  - avatars.githubusercontent.com
+  - github.githubassets.com
+  - opengraph.githubassets.com
+  - camo.githubusercontent.com
+  - user-images.githubusercontent.com
+  - objects.githubusercontent.com
+
+  # Packages
+  - sub.niceduck.cloud
+  - sub.kittynetwork.top
+  - sub.tagsub.net
+  - dl.flathub.org
+  - linkdyv1.lmsub.com
+  - sub.91unicorn.club
+  - metadata.ftp-master.debian.org
+  - wqatom.lol
+  - registry.npmjs.org
+  - metadata.ftp-master.debian.org
+  - metadata.ftp-master.debian.org
+  - appstream.debian.org
+  - '+.debian.pool.ntp.org'
+  - repo.anaconda.com
