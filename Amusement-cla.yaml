@@ -44,3 +44,10 @@ payload:
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
   - PROCESS-NAME,com.zhiliaoapp.musically
+
+  # Insragram
+  - DOMAIN-KEYWORD,instagram
+
+  # Twitch
+  - DOMAIN-KEYWORD,ttvnw
+  - PROCESS-NAME,tv.twitch.android.app
