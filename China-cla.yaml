@@ -45,3 +45,6 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,steamusercontent.com
 
+  # Wemeet
+  - PROCESS-NAME,wemeetapp
+

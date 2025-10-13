@@ -5200,3 +5200,11 @@ payload:
 
   # XIAO Hongshu
   - eoktv7-launches.appsflyersdk.com
+
+  # Wemeet
+  - work.medialab.qq.com
+  - shortconn.im.qcloud.com
+  - bizsetting.meeting.tencent.com
+  - openmarketapppub.cos.meeting.tencent.com
+  - report.meeting.tencent.com
+
