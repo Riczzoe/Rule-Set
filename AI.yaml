@@ -6,9 +6,8 @@ payload:
 
   # Claude
   - '+.claude.ai'
-  - '+.statsig.anthropic.com'
   - '+.anthropic.com'
-  - 'www.claudeusercontent.com'
+  - '+.claudeusercontent.com'
   - 'cdn.usefathom.com'
 
   # Gemini
@@ -24,26 +23,6 @@ payload:
   - '+.apis.google.com'
 
   # OpenAI
-  - '+.openai.com'
-  - '+.sentry.io'
-  - '+.openai'
-  - '+.auth0.com'
-  - '+.challenges.cloudflare.com'
-  - '+.client-api.arkoselabs.com'
-  - '+.events.statsigapi.net'
-  - '+.featuregates.org'
-  - '+.identrust.com'
-  - '+.intercom.io'
-  - '+.intercomcdn.com'
-  - '+.openaiapi-site.azureedge.net'
-  - '+.stripe.com'
-  - 'oaistatic.com'
-  - 'oaiusercontent.com'
-  - '+.oaistatic.com'
-  - '+.oaiusercontent.com'
-  - 'tcr9i.chat.openai.com'
-  - '+.chat.openai.com'
-  - 'a.nel.cloudflare.com'
   - openai.com
   - chatgpt.com
   - ai.com
@@ -54,4 +33,39 @@ payload:
   - openaicomproductionae4b.blob.core.windows.net
   - files.oaiusercontent.com
   - ab.chatgpt.com
+  - oaistatic.com
+  - oaiusercontent.com
+  - auth0.openai.com
+  - chatgpt.livekit.cloud
+  - rum.browser-intake-datadoghq.com
+  - challenges.cloudflare.com
+  - setup.workos.com
+  - forwarder.workos.com
+  - app.launchdarkly.com
+  - chat.openai.com.cdn.cloudflare.net
+  - static.cloudflareinsights.com
+  - '+.openai.com
+  - '+.chatgpt.com'
+  - '+.sentry.io'
+  - '+.openai'
+  - '+.auth0.com'
+  - '+.openai-api.arkoselabs.com'
+  - '+.client-api.arkoselabs.com'
+  - '+.statsigapi.com'
+  - '+.statsigapi.net'
+  - '+.featuregates.org'
+  - '+.identrust.com'
+  - '+.intercom.io'
+  - '+.intercomcdn.com'
+  - '+.openaiapi-site.azureedge.net'
+  - '+.stripe.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+  - 'tcr9i.chat.openai.com'
+  - '+.chat.openai.com'
+  - 'a.nel.cloudflare.com'
+  - '+.openaicomproductionae4b.blob.core.windows.net'
+  - '+.production-openaicom-storage.azureedge.net'
+  - '+.openaicom.imgix.net'
+  - '+.livekit.cloud'
 
