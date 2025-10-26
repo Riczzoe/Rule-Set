@@ -36,3 +36,9 @@ payload:
   - appstream.debian.org
   - '+.debian.pool.ntp.org'
   - repo.anaconda.com
+
+  # fedora
+  - '+.fedoraproject.org'
+  - fedora-mirror-atl.gigsouth.com
+  - mirrors.fedoraproject.org
+  - mirrors.rpmfusion.org
