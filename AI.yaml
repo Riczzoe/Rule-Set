@@ -28,9 +28,9 @@ payload:
   - ai.com
   - openaiapi-site.azureedge.net
   - openaicom.imgix.net
-  - openaicomproductionae4b.blob.core.windows.net
   - openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
   - openaicomproductionae4b.blob.core.windows.net
+  - production-openaicom-storage.azureedge.net
   - files.oaiusercontent.com
   - ab.chatgpt.com
   - oaistatic.com
@@ -44,7 +44,7 @@ payload:
   - app.launchdarkly.com
   - chat.openai.com.cdn.cloudflare.net
   - static.cloudflareinsights.com
-  - '+.openai.com
+  - '+.openai.com'
   - '+.chatgpt.com'
   - '+.sentry.io'
   - '+.openai'
@@ -68,4 +68,29 @@ payload:
   - '+.production-openaicom-storage.azureedge.net'
   - '+.openaicom.imgix.net'
   - '+.livekit.cloud'
+  - '+.algolia.net'
+  - '+.api.statsig.com'
+  - '+.auth0.com'
+  - '+.chatgpt.com'
+  - '+.chatgpt.livekit.cloud'
+  - '+.client-api.arkoselabs.com'
+  - '+.events.statsigapi.net'
+  - '+.featuregates.org'
+  - '+.host.livekit.cloud'
+  - '+.identrust.com'
+  - '+.intercom.io'
+  - '+.intercomcdn.com'
+  - '+.launchdarkly.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+  - '+.observeit.net'
+  - '+.openai.com'
+  - '+.openaiapi-site.azureedge.net'
+  - '+.openaicom.imgix.net'
+  - '+.segment.io'
+  - '+.turn.livekit.cloud'
 
+
+  # perplexity
+  - '+.perplexity.ai'
+  - DOMAIN-SUFFIX,pplx.ai,AI
