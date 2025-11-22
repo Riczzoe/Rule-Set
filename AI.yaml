@@ -70,27 +70,40 @@ payload:
   - '+.livekit.cloud'
   - '+.algolia.net'
   - '+.api.statsig.com'
-  - '+.auth0.com'
-  - '+.chatgpt.com'
   - '+.chatgpt.livekit.cloud'
-  - '+.client-api.arkoselabs.com'
   - '+.events.statsigapi.net'
-  - '+.featuregates.org'
   - '+.host.livekit.cloud'
-  - '+.identrust.com'
-  - '+.intercom.io'
-  - '+.intercomcdn.com'
   - '+.launchdarkly.com'
-  - '+.oaistatic.com'
-  - '+.oaiusercontent.com'
   - '+.observeit.net'
-  - '+.openai.com'
-  - '+.openaiapi-site.azureedge.net'
-  - '+.openaicom.imgix.net'
   - '+.segment.io'
   - '+.turn.livekit.cloud'
 
 
   # perplexity
   - '+.perplexity.ai'
-  - DOMAIN-SUFFIX,pplx.ai,AI
+  - '+.pplx.ai'
+
+  # Google AI
+  - cdn.usefathom.com
+  - ai.google.dev
+  - alkalimakersuite-pa.clients6.google.com
+  - generativelanguage.googleapis.com
+  - makersuite.google.com
+  - copilot.microsoft.com
+  - '+.bard.google.com'
+  - '+.deepmind.com'
+  - '+.deepmind.google'
+  - '+.gemini.google.com'
+  - '+.generativeai.google'
+  - '+.proactivebackend-pa.googleapis.com'
+  - '+.gemini.google.com'
+  - '+.proactivebackend-pa.googleapis.com'
+  - '+.aisandbox-pa.googleapis.com'
+  - '+.robinfrontend-pa.googleapis.com'
+  - '+.chorus.sh'
+  
+  # X
+  - '+.x.ai'
+  - '+.grok.com'
+
+
