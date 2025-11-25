@@ -22,6 +22,9 @@ payload:
 
   # WeChat
   - IP-ASN,132203,no-resolve
+  - PROCESS-NAME,wechat
+  - PROCESS-NAME,wechat.exe
+  - PROCESS-NAME,WeChatAppEx
 
   # Xiao HongShu
   - PROCESS-NAME,com.xingin.xhs
