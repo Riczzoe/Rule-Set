@@ -1,0 +1,6 @@
+payload:
+  - PROCESS-NAME,ssh,
+  - PROCESS-NAME,tailscale.exe
+  - PROCESS-NAME,tailscale
+  - PROCESS-NAME,tailscaled
+
