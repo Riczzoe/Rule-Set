@@ -3,4 +3,5 @@ payload:
   - PROCESS-NAME,tailscale.exe
   - PROCESS-NAME,tailscale
   - PROCESS-NAME,tailscaled
+  - PROCESS-NAME,ToDesk
 
