@@ -4,4 +4,5 @@ payload:
   - PROCESS-NAME,tailscale
   - PROCESS-NAME,tailscaled
   - PROCESS-NAME,ToDesk
+  - PROCESS-NAME,sunloginclient
 
