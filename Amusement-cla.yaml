@@ -1,4 +1,7 @@
 payload:
+  # colab
+  - DOMAIN-KEYWORD,colab
+
   # Spotify
   - DOMAIN-KEYWORD,spotify
   - PROCESS-NAME,com.spotify.music
