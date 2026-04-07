@@ -1,4 +1,6 @@
 payload:
+  # Telegram
+  - PROCESS-NAME,org.telegram.messenger
   # colab
   - DOMAIN-KEYWORD,colab
 
