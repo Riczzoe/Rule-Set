@@ -5,9 +5,24 @@ payload:
   - '+.poecdn.net'
 
   # Claude
+  - '+.clau.de'
   - '+.claude.ai'
+  - '+.claude.com'
   - '+.anthropic.com'
   - '+.claudeusercontent.com'
+  - '+.claudemcpclient.com'
+  - 'cdn.usefathom.com'
+  # Claude CDN
+  - 'servd-anthropic-website.b-cdn.net'
+  - 'anthropic.com.cdn.cloudflare.net'
+  # Cluade auth
+  - 'anthropic.auth0.com'
+  - 'anthropic-com.ghost.io'
+  - '+.sentry.io'
+  - '+.statsigapi.net'
+  - 'browser-intake-us5-datadoghq.com'
+  - '+.intercom.io'
+  - '+.intercomcdn.com'
   - 'cdn.usefathom.com'
 
   # Gemini
