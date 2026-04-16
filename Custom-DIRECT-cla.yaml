@@ -39,6 +39,7 @@ payload:
   # WeChat
   - IP-ASN,132203,no-resolve
   - PROCESS-NAME,wechat
+  - PROCESS-NAME,Weixin.exe
   - PROCESS-NAME,wechat.exe
   - PROCESS-NAME,WeChatAppEx
 
