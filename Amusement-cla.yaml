@@ -43,8 +43,9 @@ payload:
   - DOMAIN-KEYWORD,tiktok
   - PROCESS-NAME,com.zhiliaoapp.musically
 
-  # Insragram
+  # Instagram
   - DOMAIN-KEYWORD,instagram
+  - PROCESS-NAME,com.instagram.android
 
   # Twitch
   - DOMAIN-KEYWORD,ttvnw
