@@ -21,9 +21,7 @@ payload:
   - '+.sentry.io'
   - '+.statsigapi.net'
   - 'browser-intake-us5-datadoghq.com'
-  - '+.intercom.io'
   - '+.intercomcdn.com'
-  - 'cdn.usefathom.com'
 
   # Gemini
   - 'ai.google.dev'
@@ -52,7 +50,6 @@ payload:
   - humb.apple.com
   - images.workoscdn.com
   - ios.chat.openai.com
-  - js.intercomcdn.com
   - js.stripe.com
   - o207216.ingest.sentry.io
   - o33249.ingest.sentry.io
@@ -80,7 +77,6 @@ payload:
   - '+.ct.sendgrid.net'
   - '+.featuregates.org'
   - '+.intercom.io'
-  - '+.intercomcdn.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.openai.com'
@@ -92,8 +88,6 @@ payload:
   - '+.statsigapi.com'
   - '+.statsigapi.net'
   - '+.identrust.com'
-  - '+.intercom.io'
-  - '+.intercomcdn.com'
   - '+.openaiapi-site.azureedge.net'
   - '+.stripe.com'
   - 'a.nel.cloudflare.com'
@@ -115,7 +109,6 @@ payload:
   - '+.pplx.ai'
 
   # Google AI
-  - cdn.usefathom.com
   - ai.google.dev
   - alkalimakersuite-pa.clients6.google.com
   - generativelanguage.googleapis.com
@@ -124,11 +117,7 @@ payload:
   - '+.bard.google.com'
   - '+.deepmind.com'
   - '+.deepmind.google'
-  - '+.gemini.google.com'
   - '+.generativeai.google'
-  - '+.proactivebackend-pa.googleapis.com'
-  - '+.gemini.google.com'
-  - '+.proactivebackend-pa.googleapis.com'
   - '+.aisandbox-pa.googleapis.com'
   - '+.robinfrontend-pa.googleapis.com'
   - '+.chorus.sh'

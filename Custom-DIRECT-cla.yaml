@@ -1,11 +1,16 @@
 payload:
-  - PROCESS-NAME,ssh,
+  - PROCESS-NAME,ssh
   - PROCESS-NAME,tailscale.exe
   - PROCESS-NAME,tailscale
   - PROCESS-NAME,tailscaled
   - PROCESS-NAME,ToDesk
   - PROCESS-NAME,ToDesk.exe
   - PROCESS-NAME,sunloginclient
+  - PROCESS-NAME,syncthing
+  - DOMAIN-SUFFIX,cdn.metaglide.org
+  - DOMAIN-KEYWORD,api-huacloud
+  - DOMAIN-SUFFIX,hnu.edu.cn
+  - DOMAIN-KEYWORD,naixinternet
 
   # BiliBili
   - PROCESS-NAME,com.bilibili.app.blue
@@ -21,9 +26,6 @@ payload:
   # Xiaomi
   - PROCESS-NAME,com.xiaomi.mibrain.speech
   - PROCESS-NAME,小米云服务.exe
-
-  # ByteDance
-  - PROCESS-NAME,com.zhiliaoapp.musically
 
   # Xunlei
   - PROCESS-NAME,Thunder

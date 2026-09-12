@@ -10,5 +10,3 @@ payload:
   - PROCESS-NAME,trustd
   - PROCESS-NAME,com.apple.geod
   - PROCESS-NAME,LookupViewService
-
-

@@ -1,15 +1,10 @@
 payload:
   # Telegram
   - PROCESS-NAME,org.telegram.messenger
-  # colab
-  - DOMAIN-KEYWORD,colab
 
   # Spotify
   - DOMAIN-KEYWORD,spotify
   - PROCESS-NAME,com.spotify.music
-
-  # YouTube
-  - DOMAIN-KEYWORD,youtube
 
   # Apple Music
   - PROCESS-NAME,Music
