@@ -14,3 +14,8 @@ payload:
   - PROCESS-NAME,com.apple.geod
   - PROCESS-NAME,LookupViewService
 
+  - DOMAIN-SUFFIX,playgm.cc
+  - DOMAIN-SUFFIX,kagi.com
+  - DOMAIN-KEYWORD,leetcode.com
+
+
