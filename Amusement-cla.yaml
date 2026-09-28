@@ -1,6 +1,6 @@
 payload:
   # Telegram
-  - PROCESS-NAME,org.telegram.messenger
+  # - PROCESS-NAME,org.telegram.messenger
 
   # Spotify
   - DOMAIN-KEYWORD,spotify
