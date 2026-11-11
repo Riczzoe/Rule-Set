@@ -3,4 +3,5 @@ payload:
   - DOMAIN-KEYWORD,generativelanguage
   - DOMAIN-KEYWORD,datadog
   - DOMAIN-KEYWORD,sift
+  - DOMAIN-SUFFIX,openrouter.ai
 

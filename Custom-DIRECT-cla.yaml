@@ -20,9 +20,6 @@ payload:
   - PROCESS-NAME,tv.danmaku.bili
   - PROCESS-NAME,tv.danmaku.bilibilihd
 
-  # Weibo
-  - DOMAIN-KEYWORD,weibo
-
   # Xiaomi
   - PROCESS-NAME,com.xiaomi.mibrain.speech
   - PROCESS-NAME,小米云服务.exe
@@ -39,7 +36,6 @@ payload:
   - PROCESS-NAME,com.taobao.taobao
 
   # WeChat
-  - IP-ASN,132203,no-resolve
   - PROCESS-NAME,wechat
   - PROCESS-NAME,Weixin.exe
   - PROCESS-NAME,wechat.exe
